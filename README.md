@@ -1,6 +1,6 @@
 # Reddit_Flair_Classification
 #### Objective
-There is a dataset consisting of Reddit posts consisting of their content, title, author, and flair taken from a particular subreddit. a multi-class classification task  that considers the provided data to detect the flair that should be assigned to a particular post.
+There is a dataset consisting of Reddit posts consisting of their content, title, author, and flair taken from a particular subreddit. This is a multi-class classification task  that considers the provided data to detect the flair that should be assigned to a particular post.
 
 #### Dataset
 https://github.com/SforAiDl/Summer-Induction-Assignment-2020/tree/master/Question%204.2/NLP%20Data/data
